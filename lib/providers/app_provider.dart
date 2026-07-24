@@ -17,8 +17,7 @@ class AppProvider extends ChangeNotifier {
     name: 'Kylak Gold Member',
     email: 'kylak.vip@undopay.ai',
     upiId: 'kylak@hdfcbank',
-    avatarUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=300',
-    balance: 125000.0,
+avatarUrl: 'https://images.unsplash.com/photo-1682163339125-321e5a7eac1e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',    balance: 125000.0,
     accountType: 'Kylak Sovereign Wealth Balance',
     isUpiPinSet: true,
   );
