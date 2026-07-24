@@ -1,0 +1,29 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# iOS/macOS
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+
+# Misc
+*.log
+.DS_Store
+
+# Environment
+.env
+.env.*
+!.env.example

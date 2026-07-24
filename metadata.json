@@ -1,0 +1,6 @@
+{
+  "name": "KYLAK'S UndoPay",
+  "description": "Premium UPI Payment Portal with 15-Second Undo Payment Feature",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
